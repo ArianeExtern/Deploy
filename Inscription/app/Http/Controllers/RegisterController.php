@@ -15,7 +15,7 @@ class RegisterController extends Controller
 
 
     /**
-     * Fonction utiliser pour faire la validation des données du formulaire.
+     * Fonction utiliser pour faire la validation des données du formulaire...
      *
      * @param array $data : Tableau associatif contenant les informations du formulaire
      * @return mixed : Validator
